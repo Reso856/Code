@@ -1,6 +1,6 @@
 # Code_Fun_Do
 Here is the idea for an app which can be used before and after any natural disaster.
-This app can be created on visual studio using C# language.
+This app can be create on visual studio using C# language.
 
 The features of this app are following-
 
