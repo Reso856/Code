@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2017\Projects\MyApp\MyApp\bin\Debug\MyApp.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\MyApp\MyApp\bin\Debug\MyApp.exe
+c:\users\dell\documents\visual studio 2017\Projects\MyApp\MyApp\bin\Debug\MyApp.pdb
+c:\users\dell\documents\visual studio 2017\Projects\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\MyApp\MyApp\obj\Debug\MyApp.Form1.resources
+c:\users\dell\documents\visual studio 2017\Projects\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+c:\users\dell\documents\visual studio 2017\Projects\MyApp\MyApp\obj\Debug\MyApp.exe
+c:\users\dell\documents\visual studio 2017\Projects\MyApp\MyApp\obj\Debug\MyApp.pdb
